@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    height: 640px;
+    width: 900px;
+    text-align: center;
+    color: black;
+    margin-top: 5%;
+    -webkit-box-shadow: 10px 10px 24px -2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 24px -2px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 24px -2px rgba(0, 0, 0, 0.75);
+}
+
+.con1 {
+    height: 500px;
+    width: 850px;
+    border-radius: 8px;
+}
+.ejercicio1,.ejercicio2,.ejercicio3,.ejercicio4,.ejercicio5,
+.ejercicio6,.ejercicio7,.ejercicio8,.ejercicio9,.ejercicio10{
+    height: 450px;
+    width: 850px; 
+    background: url(../fondo.jpg);
+}
+.tabla {
+    width: 80%;
+    border: 1px solid white;
+    margin: auto;
+}
+
+.tabla th {
+    color: red;
+    text-align: center;
+}
+
+.tabla,
+th,
+td {
+    border: 1px solid white;
+    color: white;
+    font-size: 14px;
+}
+tr .th{
+    color: aqua;
+}
+
+.mt-4{
+    margin-top: 20px;
+}
+.line{
+    display: inline-block;
+}
+.alert1{
+    width: 400px;
+    height: 50px;
+}
+.alert2{
+    width: 300px;
+    height: 50px;
+}
+.alert3{
+    width: 1700px;
+    height: 50px;
+}
+.alert5{
+    width: 700px;
+    height: 50px;
+}
+
+
+
